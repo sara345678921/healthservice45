@@ -9,7 +9,7 @@
 .header{
     width: 100%;
     min-height: 100vh;
-    background-image:  linear-gradient(rgba(4,9,30,0.4),rgba(4,9,30,0.4)),url(/imges/HOSPITAL.png);
+    background-image:  linear-gradient(rgba(4,9,30,0.4),rgba(4,9,30,0.4)),url(imges/HOSPITAL.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -471,7 +471,7 @@ border-radius: 20px;
     align-items: center;
     padding: 15px;
     flex-direction: column;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url();
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(imges/about.jpeg);
     background-position: center;
     background-size: cover;
     width: 80%;
@@ -531,7 +531,7 @@ border-radius: 20px;
     width: 100%;
     height: 650px;
     min-height: vh;
-    background-image:  linear-gradient(rgba(4,9,30,0.4),rgba(4,9,30,0.4)),url(/imges/vaccination_center-02.jpg);
+    background-image:  linear-gradient(rgba(4,9,30,0.4),rgba(4,9,30,0.4)),url(imges/vaccination_center-02.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
