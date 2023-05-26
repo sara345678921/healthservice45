@@ -440,6 +440,8 @@ border-radius: 20px;
 .review{
    flex-basis: 44%;
    display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
    padding: 25px;
    position: relative;
    text-align: left;
